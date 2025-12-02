@@ -18,20 +18,13 @@ Tujuan proyek ini:
 
 ## 📂 Struktur Direktori Submission
 
-├── saved_model/
-│ ├── saved_model.pb
-│ ├── fingerprint.pb
-│ ├── assets/
-│ └── variables/
-├── tflite/
-│ ├── model.tflite
-│ └── label.txt
-├── tfjs_model/
-│ ├── model.json
-│ └── group1-shard1of1.bin
-├── notebook.ipynb
-├── README.md
-└── requirements.txt
+📌 Keterangan:
+- **saved_model/** → format model TensorFlow SavedModel lengkap beserta variable dan metadata.
+- **tflite/** → model versi TensorFlow Lite + file label.txt.
+- **tfjs_model/** → model untuk TensorFlow.js (browser atau Node.js).
+- **notebook.ipynb** → notebook utama berisi seluruh proses pelatihan & evaluasi.
+- **README.md** → dokumentasi proyek (file ini).
+- **requirements.txt** → daftar library Python yang dibutuhkan untuk menjalankan notebook
 
 
 ---
