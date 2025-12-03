@@ -1,6 +1,6 @@
 # 🥭🍎 Proyek Akhir: Image Classification dengan CNN
 
-Kelas: Belajar Machine Learning untuk Pemula – Dicoding Indonesia
+Kelas: Belajar Fundamental Deep Learning – Dicoding Indonesia
 
 Proyek ini merupakan implementasi lengkap model klasifikasi gambar menggunakan Convolutional Neural Network (CNN).  
 Dataset yang digunakan adalah **Fruits360** yang berisi lebih dari 100.000 gambar buah dan sayuran dengan 227 kelas.
